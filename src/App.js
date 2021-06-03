@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App p-grid p-align-start vertical-container">
       <div className="p-col">
-        <CardTodo />
+        <div>
+          <CardTodo />
+        </div>
       </div>
     </div>
   );
